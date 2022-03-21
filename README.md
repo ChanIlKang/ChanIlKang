@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanIlKang
-- 👀 I’m interested in ... serverProgramming.
-- 🌱 I’m currently learning ... C/C++.
+- 👀 I’m interested in ... programming.
+- 🌱 I’m currently learning ... C/C++, HTML, CSS, Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
